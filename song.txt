@@ -1,5 +1,6 @@
 "Cheers To Youth (청춘찬가)"
 
+<<<<<<< HEAD
 [Korean:]
 
 어쩌다 보니 처음으로 마주하는 오늘이라서
@@ -49,3 +50,54 @@ One, two, three, four
 신경 쓰지 말자
 우리 목소리로 어디서라도 부르자
 청춘찬가
+=======
+[English translation:]
+
+It just so happens we're facing today for the first time
+Even if you hate yourself more from the deeply hurtful remarks you said
+Let's not worry about it
+With our voices, wherever we are, let's sing
+Cheers to youth
+One, two
+One, two, three, four
+
+I get scared when the bell rings
+These days, my heart is shocked first
+I want to be alone, I don't want to be alone
+I don't even know myself
+
+Where on earth is my happiness?
+No one can answer
+I want to talk while looking at my reflection on the turned off phone screen
+
+He told me for his hard work on the way home today
+It wasn't easy, but it wasn't bad
+In this suffocating world
+I laughed for a moment at one small thing
+
+It just so happens we're facing today for the first time
+Even if you hate yourself more from the deeply hurtful remarks you said
+Let's not worry about it
+With our voices, wherever we are, let's sing
+Cheers to youth
+
+My
+My
+My
+My
+My
+My
+Cozy blanket that wrapped in this little warmth
+I'll fall asleep again while waiting for tomorrow
+
+A loud alarm that rings tomorrow morning
+I hope you don't hate me even a little more than yesterday
+In this suffocating world
+It must be so nice because all of this is me
+
+Even if tomorrow is the first time we meet
+Even if I hate you even more because of a single word that hurts so much
+Let's not worry about it
+With our voices, wherever we are, let's sing
+Cheers to youth
+>>>>>>> Branch2
